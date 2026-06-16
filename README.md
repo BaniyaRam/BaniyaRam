@@ -17,9 +17,8 @@ src="https://img.shields.io/github/followers/BaniyaRam?logo=github&style=for-the
 
 ### Skills
 
-
 <p align="left">
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
 </p>
 
 
